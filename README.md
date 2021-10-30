@@ -3,7 +3,7 @@
 Transopedia is a website created to make difference in society as well as in the lifes of transgender community by providing different online and offline support including fund support.
 
 <div align="center">
-    <img src="logo.jpeg" alt="logo" width="400px" height="400px">
+    <img src="logo.jpeg" alt="logo" width="400px" height="500px">
 </div>
 <h1 align="center"> TRANSOPEDIA </h1>
 <p align="center">
