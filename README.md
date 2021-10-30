@@ -1,12 +1,11 @@
 # HackNit3.0project
 Transopedia is a website created to make difference in society as well as in the lifes of transgender community by providing different online and offline support including fund support
 <div align="center">
-    <img src="assets/img/transopedia.jpeg" alt="logo">
-
+    <img src="transopedia.jpeg" alt="logo">
 </div>
 <h1 align="center"> TRANSOPEDIA </h1>
 <p align="center">
-    <a href="https://github.com/ShrutiMishra-2002/HackNit3.0project"><strong>HERE IS THE REPO CONTENT</strong></a>
+    <a href="https://github.com/ShrutiMishra-2002/HackNit3.0project"><strong>HERE IS THE REPOSITORY CONTENT</strong></a>
     <br />
     <br />
   
@@ -18,6 +17,8 @@ Transopedia is a website created to make difference in society as well as in the
 ## About The Project 
 <p>Transopedia is a website created to make difference in society as well as in the lifes of transgender community by providing different online and offline support including fund, education, medical, community, covid19, job / small business support. 
 </p>
+
+<!-- TOOLS USED IN PROJECT -->
 
 
 ## Tools used
@@ -35,7 +36,10 @@ Transopedia is a website created to make difference in society as well as in the
 
 </div>
 
-## 📌 Getting Started with the content of website 
+<!-- CONTENT OF PROJECT -->
+
+
+## 📌 The content of website 
  
 <h1>THE MAIN PAGE</h1>
 <img src="mainpage.png" alt="mainpage">
@@ -43,28 +47,27 @@ Transopedia is a website created to make difference in society as well as in the
 
 <img src="mainpage1" alt="mainpage" >
 <br><br><br>
-<br><br><br>
-<br><br><br>
+
 
 <h1>ABOUT US PAGE </h1>
 <img src="aboutpage.png" alt="mainpage" >
 <br><br><br>
-<br><br><br>
+
 
 <h1>GALLERY PAGE</h1>
 <img src="gallerypage.png" alt="gallerypage" >
 <br><br><br>
-<br><br><br>
+
 
 <h1>GOVERNMENT HELP DESK </h1>
 <img src="govthelpage.png" alt="govtpage" >
 <br><br><br>
-<br><br><br>
+
 
 <h1>LOGIN PAGE</h1>
 <img src="loginpage.png" alt="loginpage" >
 <br><br><br>
-<br><br><br>
+
 
 <h1>CONTACT PAGE</h1>
 <img src="contactpage.png" alt="contactpage" >
