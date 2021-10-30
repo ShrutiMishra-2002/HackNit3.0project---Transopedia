@@ -1,7 +1,7 @@
 # HackNit3.0project
 Transopedia is a website created to make difference in society as well as in the lifes of transgender community by providing different online and offline support including fund support
 <div align="center">
-    <img src="logo.jpeg" alt="logo">
+    <img src="logo.jpeg" alt="logo" width="400px" height="400px">
 </div>
 <h1 align="center"> TRANSOPEDIA </h1>
 <p align="center">
@@ -44,32 +44,32 @@ Transopedia is a website created to make difference in society as well as in the
 ## 📌 The content of website 
  
 <h1>THE MAIN PAGE</h1>
-<img src="mainpagewelcome.png" alt="welcomemainpage" >
+<img src="mainpagewelcome.png" alt="welcomemainpage" width="400px" height="400px">
 <br><br><br>
 
 
 <h1>ABOUT US PAGE </h1>
-<img src="aboutpage.png" alt="aboutpage" >
+<img src="aboutpage.png" alt="aboutpage" width="400px" height="400px">
 <br><br><br>
 
 
 <h1>GALLERY PAGE</h1>
-<img src="gallerypage.png" alt="gallerypage" >
+<img src="gallerypage.png" alt="gallerypage" width="400px" height="400px" >
 <br><br><br>
 
 
 <h1>GOVERNMENT HELP DESK </h1>
-<img src="govthelpage.png" alt="govtpage" >
+<img src="govthelpage.png" alt="govtpage" width="400px" height="400px">
 <br><br><br>
 
 
 <h1>LOGIN PAGE</h1>
-<img src="loginpage.png" alt="loginpage" >
+<img src="loginpage.png" alt="loginpage" width="400px" height="400px">
 <br><br><br>
 
 
 <h1>CONTACT PAGE</h1>
-<img src="contactpage.png" alt="contactpage" >
+<img src="contactpage.png" alt="contactpage" width="400px" height="400px">
 <br><br><br>
 
 
