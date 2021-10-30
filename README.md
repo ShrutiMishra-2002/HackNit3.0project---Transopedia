@@ -42,15 +42,12 @@ Transopedia is a website created to make difference in society as well as in the
 ## 📌 The content of website 
  
 <h1>THE MAIN PAGE</h1>
-<!--<img src="mainpage.png" alt="mainpage">
-<br><br><br>-->
-
-<img src="mainpage1" alt="mainpage" >
+<img src="mainpage" alt="mainpage" >
 <br><br><br>
 
 
 <h1>ABOUT US PAGE </h1>
-<img src="aboutpage.png" alt="mainpage" >
+<img src="aboutpage.png" alt="aboutpage" >
 <br><br><br>
 
 
