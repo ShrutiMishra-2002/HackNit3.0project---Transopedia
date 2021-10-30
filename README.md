@@ -44,32 +44,32 @@ Transopedia is a website created to make difference in society as well as in the
 ## 📌 The content of website 
  
 <h1>THE MAIN PAGE</h1>
-<img src="mainpagewelcome.png" alt="welcomemainpage" width="400px" height="400px">
+<img src="mainpagewelcome.png" alt="welcomemainpage" width="500px" height="500px">
 <br><br><br>
 
 
 <h1>ABOUT US PAGE </h1>
-<img src="aboutpage.png" alt="aboutpage" width="400px" height="400px">
+<img src="aboutpage.png" alt="aboutpage" width="500px" height="500px">
 <br><br><br>
 
 
 <h1>GALLERY PAGE</h1>
-<img src="gallerypage.png" alt="gallerypage" width="400px" height="400px" >
+<img src="gallerypage.png" alt="gallerypage" width="500px" height="500px" >
 <br><br><br>
 
 
 <h1>GOVERNMENT HELP DESK </h1>
-<img src="govthelpage.png" alt="govtpage" width="400px" height="400px">
+<img src="govthelpage.png" alt="govtpage" width="500px" height="500px">
 <br><br><br>
 
 
 <h1>LOGIN PAGE</h1>
-<img src="loginpage.png" alt="loginpage" width="400px" height="400px">
+<img src="loginpage.png" alt="loginpage" width="500px" height="500px">
 <br><br><br>
 
 
 <h1>CONTACT PAGE</h1>
-<img src="contactpage.png" alt="contactpage" width="400px" height="400px">
+<img src="contactpage.png" alt="contactpage" width="500px" height="500px">
 <br><br><br>
 
 
