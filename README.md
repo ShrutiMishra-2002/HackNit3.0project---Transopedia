@@ -42,7 +42,7 @@ Transopedia is a website created to make difference in society as well as in the
 ## 📌 The content of website 
  
 <h1>THE MAIN PAGE</h1>
-<img src="mainpage" alt="mainpage" >
+<img src="mainpagewelcome.png" alt="welcomemainpage" >
 <br><br><br>
 
 
