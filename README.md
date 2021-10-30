@@ -45,7 +45,7 @@ Transopedia is a website created to make difference in society as well as in the
 ## 📌 The Content of Website 
  
 <h1>THE MAIN PAGE</h1>
-<img src="mainpagewelcome.png" alt="welcomemainpage" width="800px" height="500px">
+<img src="mainwel.png" alt="welcomemainpage" width="800px" height="500px">
 <br><br><br>
 
 
