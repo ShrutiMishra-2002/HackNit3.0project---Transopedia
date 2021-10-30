@@ -1,5 +1,7 @@
-# HackNit3.0project
-Transopedia is a website created to make difference in society as well as in the lifes of transgender community by providing different online and offline support including fund support
+## HackNit3.0project
+
+Transopedia is a website created to make difference in society as well as in the lifes of transgender community by providing different online and offline support including fund support.
+
 <div align="center">
     <img src="logo.jpeg" alt="logo" width="400px" height="400px">
 </div>
@@ -21,8 +23,7 @@ Transopedia is a website created to make difference in society as well as in the
 
 <!-- TOOLS USED IN PROJECT -->
 
-
-## Tools used
+## Tools Used
 
 <div align="center">
 
@@ -41,7 +42,7 @@ Transopedia is a website created to make difference in society as well as in the
 <!-- CONTENT OF PROJECT -->
 
 
-## 📌 The content of website 
+## 📌 The Content of Website 
  
 <h1>THE MAIN PAGE</h1>
 <img src="mainpagewelcome.png" alt="welcomemainpage" width="800px" height="500px">
